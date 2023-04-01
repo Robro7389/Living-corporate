@@ -62,7 +62,7 @@ html,body{
     /* margin-top: 8vw; */
 }
 #nav h1{
-    font-family: Unbounded;
+    font-family: "unbounded";
     font-style: bold;
     /* background-color: aqua; */
     letter-spacing: 0.5px;
